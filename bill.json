@@ -1,0 +1,49 @@
+[
+    {
+        "type":"image",
+        "x":0,
+        "y":0,
+        "w":384,
+        "h":107,
+        "file":"logo.png"
+    },
+    {
+        "type":"text",
+        "text":"Flexaro POS, No. 233, Abc Street,"
+    },
+    {
+        "type":"text",
+        "text":"          New York, USA"
+    },
+    {
+        "type":"text",
+        "text":"Bill: {bill_id}   Phone: 0766539000"
+    },
+    {
+        "type":"text",
+        "text":"Date: {date}    Time: {time}"
+    },
+    {
+        "type":"text",
+        "text":"===================================="
+    },
+    {
+        "type":"product_table"
+    },
+    {
+        "type":"text",
+        "text":"===================================="
+    },
+    {
+        "type":"text",
+        "text":"     Thank you! Come again."
+    },
+    {
+        "type":"image",
+        "x":0,
+        "y":0,
+        "w":384,
+        "h":200,
+        "file":"qr.png"
+    }
+]
